@@ -10,7 +10,7 @@ This project introduces a **Multimodal Retrieval-Augmented Generation (RAG) Syst
 ## DEMO
 
 
-🔗 **[Click here to watch the demo](media/Demo.mp4)**  
+🔗 **[Click here to watch the demo](https://drive.google.com/file/d/1MD0P1xVqvf351PQe29GJIH87EqYzSbl_/view?usp=sharing)**  
 
 ---
 ### **Why This Matters?**
