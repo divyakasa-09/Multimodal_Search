@@ -4,12 +4,13 @@
 ## **Project Overview**
 The food delivery industry is highly competitive, and **personalized recommendations** play a crucial role in improving **user engagement and customer satisfaction**. Existing recommendation systems primarily rely on **text-based** data, missing out on **visual appeal**—a critical factor in food choices.
 
-This project introduces a **Multimodal Retrieval-Augmented Generation (RAG) System** that combines **textual and visual data** to enhance food recommendations for a restaurant aggregator platform. By leveraging **AI-powered models**, the system delivers **context-aware, personalized suggestions** based on users' preferences and uploaded food images.\
+This project introduces a **Multimodal Retrieval-Augmented Generation (RAG) System** that combines **textual and visual data** to enhance food recommendations for a restaurant aggregator platform. By leveraging **AI-powered models**, the system delivers **context-aware, personalized suggestions** based on users' preferences and uploaded food images.
+
 ---
 ## DEMO
 
 
-🔗 **[Click here to watch the demo](media/demo-video.mp4)**  
+🔗 **[Click here to watch the demo](media/Demo.mp4)**  
 
 ---
 ### **Why This Matters?**
